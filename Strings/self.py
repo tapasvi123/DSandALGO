@@ -24,7 +24,7 @@ class Solution(object):
 
 
 # [ Time taken: 20 m 48 s ]
-# Runtime: 41ms
+# Runtime: 26ms
 # Memory:13.56 MB
 #  This solution uses regEx to Split the words based on a single white space or multiple ones. Additionally, it uses an if block to pop the characters with extra whitespaces that were missed.
 
