@@ -40,3 +40,6 @@ print(sol.maxProfit(list3))
 # Space consumed: [22.58 MB] 
 
 # Not very optimised -- Check leetcode for other atempts you made, its still commented
+
+
+
